@@ -1,0 +1,13 @@
+{
+    "links_scientist": ["https://career.habr.com/vacancies?s[]=44&type=all"],
+    "links_analytic": [
+      "https://career.habr.com/vacancies?page=1&s[]=43&type=all",
+      "https://career.habr.com/vacancies?page=2&s[]=43&type=all",
+      "https://career.habr.com/vacancies?page=3&s[]=43&type=all"
+    ],
+    "headers": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"},
+    "encoding": "utf-8",
+    "timeout": 5,
+    "should_verify_certificate": true,
+    "headless_mode": true
+}
